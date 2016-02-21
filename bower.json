@@ -1,0 +1,21 @@
+{
+  "name": "threejstest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "soserian <soserian@nate.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}
